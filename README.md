@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**mxsgx/mxsgx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello my name is Masga Satria Wirawan. Just call me "Masga" 😉. I'm student at 1 Bantul Vocational School.
 
-Here are some ideas to get you started:
+During quarantine I learned a lot about the [Laravel](https://laravel.com/) framework and its ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- CSS
+  - Bootstrap
+  - Tailwind CSS
+- JavaScript
+  - Node.js
+  - jQuery
+  - Vue
+  - React (JS & Native)
+  - Express
+- PHP
+  - Laravel
+  - WordPress
+- SQL
+  - MySQL
