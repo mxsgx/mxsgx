@@ -16,5 +16,5 @@ During quarantine I learned a lot about the [Laravel](https://laravel.com/) fram
 - PHP
   - Laravel
   - WordPress
-- SQL
+- Database
   - MySQL
