@@ -1,7 +1,6 @@
 ### Hi there! 👋
 
-Hello my name is Masga Satria Wirawan. Just call me "Masga" 😉. I'm BE Web Developer and currently learning Python 🐍 for Machine Learning 💻 and 
-Artificial Intelligence 🤖
+Hello my name is Masga Satria Wirawan. Just call me "Masga" 😉. I'm BE Web Developer and currently learning Python 🐍
 
 #### Languages, Frameworks and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
